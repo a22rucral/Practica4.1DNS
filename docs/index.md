@@ -166,7 +166,6 @@ En una resolución inversa, ¿a qué nombre se mapearía la dirección IP 172.16
 La resolución inversa se realiza mediante registros PTR en una zona especial. La dirección dada se mapearía al nombre asociado en el archivo de zona inversa. 
 
 
-<br>
 
 ## Definiciones. 
 Mapear una dirección : Significa establecer una asocuacion entre una dirección y un nombre / dominio o viceversa en el contexto DNS. 
